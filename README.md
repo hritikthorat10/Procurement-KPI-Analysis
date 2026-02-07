@@ -6,7 +6,7 @@ Key Fields
 2)Days_For_Delivery → Calculated delivery duration
 3)Supplier, Item_Category → Performance segmentation
 4)Unit_Price, Negotiated_Price, Quantity → Cost savings
-5)efective_Units, Compliance → Quality metrics
+5)Defective_Units, Compliance → Quality metrics
 
 Key KPIs
 1)Average & percentile-based delivery days (Q1 / Median / Q3)
